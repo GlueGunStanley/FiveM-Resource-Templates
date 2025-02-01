@@ -1,0 +1,19 @@
+fx_version 'cerulean'
+game 'gta5'
+lua54 'yes'
+
+author 'Your Name'
+description 'A simple template for a standard FiveM resource'
+
+shared_scripts {
+    'shared/sh_main.lua'
+}
+
+client_scripts {
+    'client/cl_main.lua'
+}
+
+server_scripts {
+    'server/sv_main.lua'
+}
+
