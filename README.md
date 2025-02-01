@@ -1,0 +1,1 @@
+# FiveM-Resource-Templates
