@@ -18,7 +18,12 @@ files {
     'nui/assets/images/*.png',
     'nui/assets/images/*.jpg',
     'nui/assets/images/*.svg',
-    'nui/assets/images/*.webp'
+    'nui/assets/images/*.webp',
+    'nui/assets/audio/*.mp3',
+    'nui/assets/audio/*.ogg',
+    'nui/assets/audio/*.wav',
+    'nui/assets/fonts/*.otf',
+    'nui/assets/fonts/*.ttf'
 }
 
 shared_scripts {
