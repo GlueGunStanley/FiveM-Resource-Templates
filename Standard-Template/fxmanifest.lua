@@ -21,6 +21,10 @@ server_scripts {
     'server/sv_main.lua'
 }
 
-export 'YourClientFunction'
+export {
+    'YourClientFunction'
+}
 
-server_export 'YourServerFunction'
+server_exports { 
+    'YourServerFunction'
+}

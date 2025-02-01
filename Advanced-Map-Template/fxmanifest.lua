@@ -8,6 +8,7 @@ description 'A template for a FiveM map resource'
 replace_level_meta 'data/meta/gta5'
 
 files {
+    'data/dat/*.dat',
     'data/meta/*.meta',
     'data/xml/*.xml',
     'stream/ytyp/*.ytyp'
@@ -26,6 +27,7 @@ data_file 'TIMECYCLEMOD_FILE'              'data/xml/timecycle_mods_lc.xml'
 data_file 'POPSCHED_FILE'                  'data/dat/popcycle.dat'
 data_file 'AMBIENT_VEHICLE_MODEL_SET_FILE' 'data/meta/vehiclemodelsets.meta'
 data_file 'AMBIENT_PROP_MODEL_SET_FILE'    'data/meta/propsets.meta'
+data_file 'WORLD_HEIGHTMAP_FILE'           'data/meta/heightmap.dat'
 
 data_file 'AUDIO_WAVEPACK'                 'data/audio/awc/example'
 
